@@ -1,0 +1,44 @@
+.item{
+    height: 50px;
+    width: 50px;
+    line-height: 50px;
+    text-align:center ;   
+    
+}
+.item-1{
+   
+    background-color: #293462;
+}
+.item-2{
+    
+    background-color: #F24C4C;
+}
+.item-3{
+    
+    background-color: #EC9B3B;
+}
+.item-4{
+    
+    background-color:#F7D716;
+}
+.item-5{
+    background-color: #53BF9D;
+}
+.item-6{
+    background-color: #BD4291;
+}
+.item-7{
+    background-color: #F94C66;
+}
+.item-8{
+    background-color: #FFC54D;
+}
+.item-9{
+    background-color: #FF1700;
+}
+.item-10{
+    background-color: #0c08ea;
+}
+.Container{
+    margin: 1px;display: flex;
+}
